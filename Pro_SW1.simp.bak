@@ -73,7 +73,7 @@
       </counter>
       <counter>
         <item-type type-id="class" type="Class" />
-        <value>3</value>
+        <value>4</value>
       </counter>
       <counter>
         <item-type stereotype="enumeration" type-id="enumeration" type="Enumeration" />
@@ -83,7 +83,7 @@
     <entity-ids>
       <counter>
         <item-type type-id="group" type="Group" />
-        <value>2236</value>
+        <value>2307</value>
       </counter>
       <counter>
         <item-type type-id="system-boundary" type="System Boundary" />
@@ -103,7 +103,7 @@
       </counter>
       <counter>
         <item-type type-id="relationship" type="Association" />
-        <value>27</value>
+        <value>28</value>
       </counter>
       <counter>
         <item-type type-id="extend" type="Entend" />
@@ -199,11 +199,11 @@
       </counter>
       <counter>
         <item-type type-id="class" type="Class" />
-        <value>4</value>
+        <value>5</value>
       </counter>
       <counter>
         <item-type type-id="property" type="Property" />
-        <value>16</value>
+        <value>19</value>
       </counter>
       <counter>
         <item-type type-id="enumeration" type="Enumeration" />
@@ -4617,7 +4617,7 @@ of Tenant</comment>
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-sequence" id="pdd879a3dd3e34ac8ad7c69d4c4de4cc9_197367130" name="filter_sequence" order-index="11" overview-order-index="9" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default" view-location="297,564">
+      <diagram type="uml-sequence" id="pdd879a3dd3e34ac8ad7c69d4c4de4cc9_197367130" name="filter_sequence" order-index="11" overview-order-index="9" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -5055,7 +5055,7 @@ of Tenant</comment>
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-class" id="p6caeb0d0f3684d45b119b7896cbbc999_996419552" name="ClassDiagram1" order-index="12" overview-order-index="10" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default">
+      <diagram type="uml-class" id="p6caeb0d0f3684d45b119b7896cbbc999_996419552" name="ChatApp_Class" order-index="12" overview-order-index="10" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default" view-location="195,-198">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -5067,7 +5067,7 @@ of Tenant</comment>
           </authors>
           <description />
           <creation-date>11/27/2022 14:06:41</creation-date>
-          <change-date>11/27/2022 15:36:08</change-date>
+          <change-date>11/27/2022 15:38:47</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
@@ -5238,8 +5238,41 @@ of Tenant</comment>
           </item>
           <item id="d9e48be5c7a44f37a3c1e689501742e9" cid="REL026" type="relationship" name="has" style-class="" change-tracking-state="added" creator="" creation-date="11/27/2022 15:35:52" from="b685bee146a74a7ea699657ae0b214e0" to="9a00aa7352264c85b146d526318f866e" visibility="package">
             <relation from="b685bee146a74a7ea699657ae0b214e0" to="9a00aa7352264c85b146d526318f866e" derived="false">
-              <start-role id="umlar-0781bd96-1dbf-476f-b775-7d61a8049ab7" name="" navigability="" association-type="composition" visibility="private" />
+              <start-role id="umlar-0781bd96-1dbf-476f-b775-7d61a8049ab7" name="*" navigability="" association-type="composition" visibility="undefined" />
               <end-role id="umlar-2dec04a7-3d2a-4686-9908-5a83dc3a14c4" name="1" navigability="" association-type="association" visibility="undefined" />
+            </relation>
+          </item>
+          <item id="b14630ce4af7487b8cf04deddbeeb18b" cid="C004" type="class" name="Category" style-class="" change-tracking-state="added" creator="" creation-date="11/27/2022 15:37:22">
+            <owned-items>
+              <owned-item ref="8d1337a116504e5882509527d0e0d2b1" />
+              <owned-item ref="5f384c7bb990429eb6809add328ad173" />
+              <owned-item ref="c27436bf583d4c95a481ee56c6d7d60e" />
+            </owned-items>
+            <attributes>
+              <attribute id="a1eb245174e0e44e28452cc492f6456ec828" cid="PROP016" name="describtion" creation-date="11/27/2022 15:37:36" property-ref="8d1337a116504e5882509527d0e0d2b1" />
+              <attribute id="ac3d4c037fa61460ea811adca923e4dea684" cid="PROP017" name="isActive" creation-date="11/27/2022 15:37:58" property-ref="5f384c7bb990429eb6809add328ad173" />
+              <attribute id="a362cfbe273af4f26aa89cd4cc11ce535304" cid="PROP018" name="name" creation-date="11/27/2022 15:38:20" property-ref="c27436bf583d4c95a481ee56c6d7d60e" />
+            </attributes>
+          </item>
+          <item id="8d1337a116504e5882509527d0e0d2b1" cid="PROP016" type="property" name="describtion" style-class="" owner="b14630ce4af7487b8cf04deddbeeb18b" creator="" creation-date="11/27/2022 15:37:36" visibility="public">
+            <feature />
+            <structural-feature type="String" type-id="Uml.String" />
+            <property />
+          </item>
+          <item id="5f384c7bb990429eb6809add328ad173" cid="PROP017" type="property" name="isActive" style-class="" owner="b14630ce4af7487b8cf04deddbeeb18b" creator="" creation-date="11/27/2022 15:37:58" visibility="public">
+            <feature />
+            <structural-feature type="Boolean" type-id="Uml.Boolean" />
+            <property />
+          </item>
+          <item id="c27436bf583d4c95a481ee56c6d7d60e" cid="PROP018" type="property" name="name" style-class="" owner="b14630ce4af7487b8cf04deddbeeb18b" creator="" creation-date="11/27/2022 15:38:20" visibility="public">
+            <feature />
+            <structural-feature type="String" type-id="Uml.String" />
+            <property />
+          </item>
+          <item id="3cb40d259bb44a178f164fec99cc2dbe" cid="REL027" type="relationship" name="" style-class="" change-tracking-state="added" creator="" creation-date="11/27/2022 15:38:44" from="b685bee146a74a7ea699657ae0b214e0" to="b14630ce4af7487b8cf04deddbeeb18b" visibility="package">
+            <relation from="b685bee146a74a7ea699657ae0b214e0" to="b14630ce4af7487b8cf04deddbeeb18b" derived="false">
+              <start-role id="umlar-b9740b3b-4b2a-4036-8206-76376ec970e9" name="" multiplicity="*" navigability="" association-type="aggregation" visibility="private" />
+              <end-role id="umlar-29b8e56d-ad86-4f31-9717-be37070dae1d" name="" multiplicity="*" navigability="" association-type="association" visibility="private" />
             </relation>
           </item>
         </abstract-items>
@@ -5289,13 +5322,27 @@ of Tenant</comment>
             <class />
           </item>
           <item id="d9e48be5c7a44f37a3c1e689501742e9" iid="300c6ee7aca94e109a13a18f84a8cad6" creation-date="11/27/2022 15:35:52" order-index="7" type="relation">
-            <layout start-role-position="26.99971,14.96679" end-role-position="25,-14.99999" start-multiplicity-position="25,-15" end-multiplicity-position="25,15" line-style="oblique" lock-to-fields="false" auto-path="" x1="1000" y1="-111" x2="995" y2="190" start-border-pos="0.626563162173865" end-border-pos="0.126317994784465" name-position="0,20">
+            <layout start-role-position="26.9997,14.96679" end-role-position="25,-14.99999" start-multiplicity-position="25,-15" end-multiplicity-position="25,15" line-style="oblique" lock-to-fields="false" auto-path="" x1="1000" y1="-111" x2="995" y2="190" start-border-pos="0.626563162173865" end-border-pos="0.126317994784465" name-position="0,20">
               <points>
                 <point x="1000" y="-111" />
                 <point x="995" y="190" />
               </points>
             </layout>
             <relation from="b685bee146a74a7ea699657ae0b214e0" from-iid="c73f2e955ac04aad978a52e6d195733a" to="9a00aa7352264c85b146d526318f866e" to-iid="917a8c2db2544ea5aebf053d40bdece9" />
+          </item>
+          <item id="b14630ce4af7487b8cf04deddbeeb18b" iid="2846dddf2a4341d3a0b4375a4830d715" creation-date="11/27/2022 15:37:22" order-index="8" type="entity">
+            <layout ax="1360" ay="-290" awidth="140" aheight="109" x="1360" y="-290" width="140" height="109" rotation-center="0,25.5" />
+            <class />
+          </item>
+          <item id="3cb40d259bb44a178f164fec99cc2dbe" iid="e3bd5ac596124e1ba368d5e9030f9531" creation-date="11/27/2022 15:38:44" order-index="9" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" start-multiplicity-position="25,-15" end-multiplicity-position="25,15" line-style="oblique" lock-start-point="true" lock-to-fields="false" auto-path="" x1="1107" y1="-235" x2="1360" y2="-236" start-border-pos="0.326117321848869" end-border-pos="0.876146788990826" start-local-pos="55" name-position="0,20">
+              <points>
+                <point x="1107" y="-235" />
+                <point x="1120" y="-235.5" />
+                <point x="1360" y="-236" />
+              </points>
+            </layout>
+            <relation from="b685bee146a74a7ea699657ae0b214e0" from-iid="c73f2e955ac04aad978a52e6d195733a" to="b14630ce4af7487b8cf04deddbeeb18b" to-iid="2846dddf2a4341d3a0b4375a4830d715" />
           </item>
         </layer>
       </diagram>
