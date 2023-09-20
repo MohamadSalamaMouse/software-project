@@ -17,3 +17,8 @@
 <p dir="auto"><strong>Bussines Model Canves</strong></p>
 </li>
 </ul>
+## Table of Contents
+- [Activity Diagram](#activity-diagram)
+- [Class Diagram](#class-diagram)
+- [Sequence Diagram](#sequence-diagram)
+- [Use Case Diagram](#use-case-diagram)
