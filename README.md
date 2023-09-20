@@ -17,13 +17,3 @@
 <p dir="auto"><strong>Bussines Model Canves</strong></p>
 </li>
 </ul>
-<p style="text-align: center; font-weight: bold;">Activity UML Diagram</p>
-
-
-|      Register screen       |        Veification         |          Profile           |
-|:--------------------------:|:--------------------------:|:--------------------------:|
-| <img src="https://github.com/MohamadSalamaMouse/GradTeam/blob/main/public/Screenshot/Register.jpeg" width="300" /> | <img src="https://github.com/MohamadSalamaMouse/GradTeam/blob/main/public/Screenshot/Code%20Verification.jpeg" width="300" /> | <img src="https://github.com/MohamadSalamaMouse/GradTeam/blob/main/public/Screenshot/Profile.jpeg" width="300" /> |
-
-|            Home            |        Team Members        | Notification |
-|:--------------------------:|:--------------------------:|:------------:|
-| <img src="https://github.com/MohamadSalamaMouse/GradTeam/blob/main/public/Screenshot/Home.jpeg" width="300" /> | <img src="https://github.com/MohamadSalamaMouse/GradTeam/blob/main/public/Screenshot/Team%20Members.jpeg" width="300" /> |      <img src="https://github.com/MohamadSalamaMouse/GradTeam/blob/main/public/Screenshot/Notifications.jpeg" width="300" />        |
