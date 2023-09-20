@@ -17,7 +17,8 @@
 <p dir="auto"><strong>Bussines Model Canves</strong></p>
 </li>
 </ul>
-<p style="center">Activity UML Diagram</p>  
+<p style="text-align: center; font-weight: bold;">Activity UML Diagram</p>
+
 
 |      Register screen       |        Veification         |          Profile           |
 |:--------------------------:|:--------------------------:|:--------------------------:|
