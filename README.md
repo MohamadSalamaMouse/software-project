@@ -17,6 +17,6 @@
 <p dir="auto"><strong>Bussines Model Canves</strong></p>
 </li>
   <li>
-<p dir="auto"><strong> Updated2 Bussines Model Canves</strong></p>
+<p dir="auto"><strong> Updated Bussines Model Canves</strong></p>
 </li>
 </ul>
