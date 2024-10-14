@@ -15,5 +15,6 @@
 </li>
 <li>
 <p dir="auto"><strong>Bussines Model Canves</strong></p>
+  <p dir="auto"><strong>Bussines Model Canves</strong></p>
 </li>
 </ul>
